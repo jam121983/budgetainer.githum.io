@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://africatanks.co.za/wp-content/uploads/2017/07/20170620_100118_1497945905834_resized-150x150.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://africatanks.co.za/wp-content/uploads/2017/07/20170620_100118_1497945905834_resized-150x150.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="https://africatanks.co.za/wp-content/uploads/2017/07/20170620_100118_1497945905834_resized-150x150.jpg">https://africatanks.co.za/wp-content/uploads/2017/07/20170620_100118_1497945905834_resized-150x150.jpg</a></p>
+	</body>
+</html>
